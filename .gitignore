@@ -1,0 +1,8 @@
+build
+bin
+.vscode
+.settings
+.gradle
+
+.project
+.classpath
